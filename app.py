@@ -1,8 +1,3 @@
-
-!pip install polyfuzz
-!pip install flair
-
-
 from polyfuzz import PolyFuzz
 from_list = ["https://www.tatielou.co.uk/apples/sadasda", "https://www.tatielou.co.uk/oranges/sadasda"]
 to_list = ["https://www.tatielou.co.uk/apples/", "https://www.tatielou.co.uk/oranges/", "https://www.tatielou.co.uk/pears/"]
