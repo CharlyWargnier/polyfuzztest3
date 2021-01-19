@@ -1,0 +1,10 @@
+streamlit
+
+polyfuzz==0.2.2
+flair
+
+csv
+io
+matplotlib
+seaborn
+pandas
