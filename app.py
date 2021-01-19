@@ -1,6 +1,8 @@
+from polyfuzz import PolyFuzz
+
 #from polyfuzz import PolyFuzz
 
-import polyfuzz
+#import polyfuzz
 
 
 from_list = ["https://www.tatielou.co.uk/apples/sadasda", "https://www.tatielou.co.uk/oranges/sadasda"]
