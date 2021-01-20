@@ -147,7 +147,10 @@ else:
     pass
 
 # GSCDf = pd.read_csv("internal_all.csv")
-GSCDf = pd.read_csv("Crawls_CSV\TatieLou_Internal_all.csv")
+#GSCDf = pd.read_csv("Crawls_CSV\TatieLou_Internal_all.csv")
+GSCDf = pd.read_csv("Crawls_CSV/TatieLou_Internal_all.csv")
+
+
 # st.header("SF Crawl -  Tatie Lou")
 # st.write(GSCDf, width=1300)
 
