@@ -1,10 +1,10 @@
-import asyncio
+#import asyncio
 
 import streamlit as st
 import csv
 
 from polyfuzz import PolyFuzz
-from fuzzywuzzy import fuzz
+#from fuzzywuzzy import fuzz
 
 import numpy as np
 import base64
